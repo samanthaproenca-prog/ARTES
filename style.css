@@ -8,11 +8,11 @@ header{
     border-bottom: solid 2px red;
     padding: 20px;
     font-size: 32px;
-    color: rgb(31, 38, 240);
+    color: rgb(163, 105, 105);
 }
 
 section{
-    background: green;
+    background: pink;
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
